@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = KhumaloCraft_Emporium
+build_property.RootNamespace = KhumaloCraft_Emporium
+build_property.ProjectDir = C:\Users\User\Downloads\cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)\cldv6211-cloud-development-part-1-AneleSiwelaa-main\KhumaloCraft Emporium\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\Downloads\cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)\cldv6211-cloud-development-part-1-AneleSiwelaa-main\KhumaloCraft Emporium
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/About/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Work/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Downloads/cldv6211-cloud-development-part-1-AneleSiwelaa-main (2)/cldv6211-cloud-development-part-1-AneleSiwelaa-main/KhumaloCraft Emporium/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jq9urbspoc

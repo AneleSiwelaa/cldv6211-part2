@@ -1,0 +1,31 @@
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\appsettings.Development.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\appsettings.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.staticwebassets.runtime.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.exe
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.deps.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.dll
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\bin\Release\net6.0\KhumaloCraft Emporium.pdb
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets\msbuild.KhumaloCraft Emporium.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets\msbuild.build.KhumaloCraft Emporium.props
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.KhumaloCraft Emporium.props
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.KhumaloCraft Emporium.props
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\scopedcss\bundle\KhumaloCraft Emporium.styles.css
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\scopedcss\projectbundle\KhumaloCraft Emporium.bundle.scp.css
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.dll
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\refint\KhumaloCraft Emporium.dll
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.pdb
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\KhumaloCraft Emporium.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\GitHub\cldv6211-cloud-development-part-1-AneleSiwelaa\KhumaloCraft Emporium\obj\Release\net6.0\ref\KhumaloCraft Emporium.dll
